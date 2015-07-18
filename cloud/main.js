@@ -6,7 +6,7 @@ AV.Cloud.define("hello", function(request, response) {
     console.log(request.user);
 	response.success("Hello world," + request.params.name);
 });
-
+/*
 AV.Cloud.beforeSave("TestReview", function(request, response){
 	if (request.object.get("stars") < 1) {
 		response.error("you cannot give less than one star");
@@ -34,3 +34,4 @@ AV.Cloud.afterSave("TestReview", function(request) {
 		}
 	});
 });
+*/
