@@ -74,6 +74,8 @@ function serveStatic(response, cache, absPath){
                     }
                 });
             } else {
+
+
                 send404(response);
             }
         })
@@ -95,5 +97,5 @@ server.listen(3000, function(){
     console.log("Server listening on port 3000.");
 })
 
-var chatServer = require('chat_server');
+var chatServer = require('cloud/chat_server.js');
 chatServer.listen(server);
