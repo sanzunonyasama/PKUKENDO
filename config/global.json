@@ -1,8 +1,9 @@
 {
-    "applicationName" : "PKUKendo",
-    "applicationId": "ql84x2woif2u3xk7p3qoska4i558v3ornikfkfga1l3ad59n",
-    "applicationKey": "frzrwer3k3demoxounucm0ubfqzlvongad1h30avewweycd9",
+
+    "applicationName" : "CloudCode-Test",
+    "applicationId": "4r1tslmiqpqgautnipk2hdmxdxpgg2rlchs5f8ljrhpzywu3",
+    "applicationKey": "1aqlv036jy31yjxt4tspjtvw5cy3nzi6ilaaim75mm6zi3h4",
     "global": {
-        "avVersion": "0.3.1"
+        "avVersion": "0.2.0"
     }
 }
